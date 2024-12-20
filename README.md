@@ -71,7 +71,7 @@
 ###
 
 <div align="left">
-  <a href="khalidmohfathi@gmail.com" target="_blank">
+  <a href="mailto:khalidmohfathi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/khalid-mohammed117/" target="_blank">
