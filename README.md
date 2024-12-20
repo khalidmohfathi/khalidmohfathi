@@ -6,6 +6,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidmohfathi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+## Contributions
+- [Learning Management System using Java Spring Boot](https://github.com/aahhmmeeddaammr/LMS)
+- [Freelancing Platform using React and Django](https://github.com/aahhmmeeddaammr/Full-Stack-Freelancing-Application)
+- [Command Line Interface using Java](https://github.com/aahhmmeeddaammr/CLI-using-Java)
+###
+
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW11ZnVnbzZjaWNrZHp0a3JmaXd5aXdwYTd0b2Q4M3plcnBzYWxyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1qErVv5GVUac8uqBJU/giphy.gif"  />
@@ -78,10 +84,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-## Contributions
-- [Learning Management System using Java Spring Boot](https://github.com/aahhmmeeddaammr/LMS)
-###
 
 <br clear="both">
 
