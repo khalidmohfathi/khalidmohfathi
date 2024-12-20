@@ -10,9 +10,10 @@
 - [Learning Management System using Java Spring Boot](https://github.com/aahhmmeeddaammr/LMS)
 - [Freelancing Platform using React and Django](https://github.com/aahhmmeeddaammr/Full-Stack-Freelancing-Application)
 - [Command Line Interface using Java](https://github.com/aahhmmeeddaammr/CLI-using-Java)
-###
 
 ###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW11ZnVnbzZjaWNrZHp0a3JmaXd5aXdwYTd0b2Q4M3plcnBzYWxyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1qErVv5GVUac8uqBJU/giphy.gif"  />
 
