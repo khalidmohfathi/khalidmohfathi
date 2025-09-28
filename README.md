@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalidmohfathi&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&cache_seconds=7200&rank_icon=github" height="160" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidmohfathi&layout=compact&langs_count=8&theme=dracula&cache_seconds=7200" height="160" alt="Top languages" />
 </div>
 
